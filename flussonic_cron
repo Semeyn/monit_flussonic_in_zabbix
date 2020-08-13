@@ -1,0 +1,2 @@
+# Run get data from flussonic API
+*/1 * * * * root /usr/libexec/zabbix-extensions/scripts/flussonic_api.sh
